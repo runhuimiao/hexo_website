@@ -1,38 +1,23 @@
 ---
-title: Hello World
+title: 好好学习，一起进步
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## 第一个博客的第一篇文章
 
-### Create a new post
+### 关于作者
 
-``` bash
-$ hexo new "My New Post"
-```
+作者只是一个传统的 CRUD 程序员，但是有一个架构师的心。这个博客将作为作者成长的记录。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### 关于文章内容选择
 
-### Run server
+文章将主要集中在核心的容易被人忽略的话题上，而对于通过文档可以轻易百度的内容将会被忽略。对于有经验的开发人员来说，这些东西早已掌握。但是对于初级开发人员，这些东西将会以普通程序员的视角进行探索和讨论以及提出优化条件。就像每个 Dota 选手都是从蓝胖，斧王等容易切入的点，玩起，慢慢建立信心，循序渐进的入门，我们的内容也一样，会尽量选择我们平常认知的知识，慢慢深入，主要聚焦于工程常会遇到的问题。而不是茴的四种写法
 
-``` bash
-$ hexo server
-```
+### 关于文章风格
 
-More info: [Server](https://hexo.io/docs/server.html)
+作者的文档被批评过，内容过于口水话，专业属于不多，但作者将暂时保持这种风格，保持容易理解和提高专业程度。作者本人，对于各种英文简称恐惧，作者会在文章的英文简称中，尽量附上其中文解释。但是，对于 handle（句柄）这种反人类的中文翻译，对于初学者严重不友好的名词，作者会尽量附上说人话的链接。总之，文章的宗旨就是，让每一个跟作者匹配王者荣耀的人都能读懂作者的文章。
 
-### Generate static files
+### 结语
 
-``` bash
-$ hexo generate
-```
+希望大家共勉，对于文章以及技术提出宝贵的意见，不胜感激。
 
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+（请不要提关于技术之外的话题，尤其是 Dota 这种老年人的游戏是用什么英雄入门的问题）

@@ -151,7 +151,7 @@ theme_config:
     repo: runhuimiao.github.io
     client_id: 86009b73979ffb864b6b
     client_secret: cd3ccb107d4dc9de22371afe626a93906c383a77
-    admin_user: [lewlh]
+    admin_user: [runhuimiao]
     language: zh-CN
   busuanzi_count:
     enable: true
@@ -163,7 +163,7 @@ theme_config:
   # `Follow me on GitHub` banner in the top-right corner.
   github_banner:
     enable: true
-    permalink: https://github.com/lewlh
+    permalink: https://github.com/runhuimiao
   back2top:
     # Scroll percent label in b2t button.
     scrollpercent: true
