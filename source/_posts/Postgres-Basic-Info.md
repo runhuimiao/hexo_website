@@ -2,8 +2,11 @@
 title: Postgres Basic Info
 date: 2020-07-27 22:08:45
 tags:
+    - postgres
+    - postgresSQL
+    - basic
 ---
-# Postgres 学习第二天
+# Postgres 学习第一天
 
 声明分区
 继承分区

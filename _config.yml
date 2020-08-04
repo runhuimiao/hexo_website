@@ -149,8 +149,8 @@ theme_config:
     enable: true
     github_id: runhuimiao
     repo: runhuimiao.github.io
-    client_id: 86009b73979ffb864b6b
-    client_secret: cd3ccb107d4dc9de22371afe626a93906c383a77
+    client_id: 6d3d0187e9d0209a7853
+    client_secret: ec2b24a1c30cfb298e9665d16f00b28e289cfba6
     admin_user: [runhuimiao]
     language: zh-CN
   busuanzi_count:
